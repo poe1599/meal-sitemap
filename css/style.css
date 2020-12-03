@@ -1,0 +1,25 @@
+.imgBox {
+  width: 100%;
+  background: center center no-repeat;
+  background-size: contain;
+}
+.describe {
+  background-color: pink;
+}
+.fixedBox {
+  position: fixed;
+}
+.btnBack {
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  bottom: 20px;
+  background-color: rgb(128, 228, 128);
+  border-radius: 50%;
+  line-height: 100px;
+  text-align: center;
+  left: 90%;
+}
+strong {
+  color: red;
+}
