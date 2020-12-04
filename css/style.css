@@ -1,11 +1,20 @@
+strong {
+  color: red;
+}
+ol {
+  background-color: rgb(155, 236, 241);
+  border-radius: 10px;
+  margin-bottom: 5px;
+  padding: 10px 50px;
+}
 .imgBox {
   width: 100%;
   background: center center no-repeat;
   background-size: contain;
 }
-.describe {
+/* .describe {
   background-color: #eee;
-}
+} */
 .fixedBox {
   position: fixed;
 }
@@ -18,10 +27,7 @@
   border-radius: 50%;
   line-height: 100px;
   text-align: center;
-  left: 90%;
-}
-strong {
-  color: red;
+  right: 50px;
 }
 .mainProjectBgc {
   background: rgb(148, 245, 177);
