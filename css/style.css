@@ -43,3 +43,29 @@ ol {
   padding: 15px;
   border-radius: 10px;
 }
+.extensionProjectBgc {
+  background: rgb(148, 245, 229);
+  margin: 5px;
+  padding: 15px;
+  border-radius: 10px;
+}
+.extensionProjectItem {
+  /* background: rgb(148, 245, 229); */
+  margin: 5px;
+  padding: 15px;
+  border-radius: 10px;
+}
+.ref-info {
+  background: rgb(148, 239, 245);
+  margin: 5px;
+  padding: 15px;
+  border-radius: 10px;
+}
+.ref-link {
+  text-align: center;
+  width: 200px;
+  background: rgb(210, 247, 161);
+  margin: 5px;
+  padding: 15px;
+  border-radius: 10px;
+}
