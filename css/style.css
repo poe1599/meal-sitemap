@@ -14,7 +14,7 @@
   height: 100px;
   position: fixed;
   bottom: 20px;
-  background-color: rgb(128, 228, 128);
+  background-color: rgb(178, 253, 178);
   border-radius: 50%;
   line-height: 100px;
   text-align: center;
@@ -22,4 +22,10 @@
 }
 strong {
   color: red;
+}
+.mainProjectBgc {
+  background: rgb(148, 245, 177);
+  margin: 5px;
+  padding: 15px;
+  border-radius: 10px;
 }
