@@ -7,6 +7,7 @@ ol {
   margin-bottom: 5px;
   padding: 10px 50px;
 }
+
 .sitemap-Head {
   background-color: rgb(248, 237, 188);
   border-radius: 10px;
@@ -24,8 +25,31 @@ ol {
   background-color: #eee;
 } */
 .fixedBox {
-  position: fixed;
+  /* position: fixed; */
+  overflow: scroll;
 }
+
+.broder-red{
+  border: solid red 2px;
+}
+
+.broder-orange{
+  border: solid orange 2px;
+}
+
+.broder-yellow{
+  border: solid yellow 2px;
+}
+.broder-green{
+  border: solid green 2px;
+}
+.broder-blue{
+  border: solid blue 2px;
+}
+.broder-purple{
+  border: solid purple 2px;
+}
+
 .btnBack {
   width: 100px;
   height: 100px;
