@@ -29,24 +29,24 @@ ol {
   overflow: scroll;
 }
 
-.broder-red{
+.border-red{
   border: solid red 2px;
 }
 
-.broder-orange{
+.border-orange{
   border: solid orange 2px;
 }
 
-.broder-yellow{
+.border-yellow{
   border: solid yellow 2px;
 }
-.broder-green{
+.border-green{
   border: solid green 2px;
 }
-.broder-blue{
+.border-blue{
   border: solid blue 2px;
 }
-.broder-purple{
+.border-purple{
   border: solid purple 2px;
 }
 
