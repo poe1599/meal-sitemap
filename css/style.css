@@ -26,28 +26,28 @@ ol {
 } */
 .fixedBox {
   /* position: fixed; */
-  overflow: scroll;
+  /* overflow: scroll; */
 }
 
-.border-red{
-  border: solid red 2px;
+.border-red {
+  border: solid red 5px;
 }
 
-.border-orange{
-  border: solid orange 2px;
+.border-orange {
+  border: solid orange 5px;
 }
 
-.border-yellow{
-  border: solid yellow 2px;
+.border-yellow {
+  border: solid yellow 5px;
 }
-.border-green{
-  border: solid green 2px;
+.border-green {
+  border: solid green 5px;
 }
-.border-blue{
-  border: solid blue 2px;
+.border-blue {
+  border: solid blue 5px;
 }
-.border-purple{
-  border: solid purple 2px;
+.border-purple {
+  border: solid purple 5px;
 }
 
 .btnBack {
